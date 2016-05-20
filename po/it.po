@@ -299,7 +299,7 @@ msgstr ""
 
 #: Settings.ui.h:62
 msgid "Animation duration (s)"
-msgstr "Durata aniazione (s)"
+msgstr "Durata animazione (s)"
 
 #: Settings.ui.h:63
 msgid "0.000"
