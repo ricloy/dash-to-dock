@@ -244,11 +244,11 @@ msgstr ""
 
 #: Settings.ui.h:48
 msgid "Created by"
-msgstr ""
+msgstr "Creata da"
 
 #: Settings.ui.h:49
 msgid "Webpage"
-msgstr ""
+msgstr "Pagina web"
 
 #: Settings.ui.h:50
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 
 #: Settings.ui.h:52
 msgid "About"
-msgstr ""
+msgstr "Crediti"
 
 #: Settings.ui.h:53
 msgid "Show the dock by mouse hover on the screen edge."
@@ -275,7 +275,7 @@ msgstr ""
 
 #: Settings.ui.h:56
 msgid "Enable in fullscreen mode"
-msgstr ""
+msgstr "Abilita in modalit tuttoschermo"
 
 #: Settings.ui.h:57
 msgid "Show the dock when it doesn't obstruct application windows."
@@ -287,7 +287,7 @@ msgstr ""
 
 #: Settings.ui.h:59
 msgid "All windows"
-msgstr ""
+msgstr "tutte le finestre"
 
 #: Settings.ui.h:60
 msgid "Only focused application's windows"
